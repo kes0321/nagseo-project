@@ -1,4 +1,3 @@
-import logo from './white_wall.jpg';
 import './App.css';
 import DrawingComponent from './DrawingComponent';
 
@@ -13,7 +12,5 @@ function App() {
     </div>
   );
 }
-
-
 
 export default App;
